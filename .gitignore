@@ -1,2 +1,9 @@
 .env
 meds.py
+*.db
+*.json
+.google_creds.go
+.gitignore
+.Untitled.ipynb
+.stock.go
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
